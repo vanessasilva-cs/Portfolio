@@ -889,7 +889,7 @@ header .logo a {
 /**
  * menu toggle - (_layout.css)
  * ------------------------------------------------------------------- 
- */
+ 
 .menu-toggle {
 	float: left;
 	width: auto;
@@ -954,7 +954,7 @@ header .logo a {
 	transition-property: bottom, transform;
 }
 
-/* is clicked */
+/* is clicked
 .menu-toggle.is-clicked span {
 	background-color: rgba(255, 0, 119, 0);
 }
