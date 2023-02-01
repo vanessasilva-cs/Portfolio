@@ -1114,6 +1114,9 @@ header .logo a {
 	padding-left: 3rem;
 }
 
+.about .about-info .left{
+    width: 45%;
+}
 .about-info{
     display: flex;
     flex-wrap: wrap;
