@@ -935,11 +935,11 @@ header .logo a {
 }
 .intro-content h4 {
 	color: #FFFFFF;
-	font-family: "poppins-medium", sans-serif;
-	font-size: 1.4rem;
+	font-family: "poppins-regular", sans-serif;
+	font-size: 2.4rem;
 	line-height: 1.071;
 	max-width: 900px;
-	margin-top: 0;
+	margin-top: 4px;
 	margin-bottom: .6rem;
 	margin-left: auto;
 	margin-right: auto;
