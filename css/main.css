@@ -933,6 +933,18 @@ header .logo a {
 	margin-right: auto;
 	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
+.intro-content h4 {
+	color: #FFFFFF;
+	font-family: "poppins-medium", sans-serif;
+	font-size: 1.4rem;
+	line-height: 1.071;
+	max-width: 900px;
+	margin-top: 0;
+	margin-bottom: .6rem;
+	margin-left: auto;
+	margin-right: auto;
+	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
 .intro-content h5 {
 	color: #3fa65c;
 	font-family: "poppins-bold", sans-serif;
