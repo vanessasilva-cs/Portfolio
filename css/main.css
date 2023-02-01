@@ -1109,20 +1109,20 @@ header .logo a {
 	float: right;
 }
 
-.intro-info .lead {
+/*.intro-info .about-info {
 	text-align: justify;
 	padding-left: 3rem;
-}
+}*/
 
-.about .about-info .left{
+.intro-info .about-info .left{
     width: 45%;
 }
 
-.about .about-info .right{
+.intro-info .about-info .right{
     width: 55%;
 }
 
-.about .about-info .right p{
+.intro-info .about-info .right p{
     text-align: justify;
 }
 
@@ -1133,7 +1133,7 @@ header .logo a {
     justify-content: space-between;
 }
 
-.about .about-info .left img{
+.intro-info .about-info .left img{
     object-fit: cover;
     height: 25rem;
 	width: 25rem;
@@ -1141,13 +1141,13 @@ header .logo a {
 	float: right;
 }
 
-.about .about-info .right .text{
+.intro-info .about-info .right .text{
     font-size: 25px;
     font-weight: 600;
     margin-bottom: 10px;
 }
 
-.about .about-info .right p{
+.intro-info .about-info .right p{
     text-align: justify;
 }
 
