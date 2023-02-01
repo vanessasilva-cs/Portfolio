@@ -1115,7 +1115,7 @@ header .logo a {
 } */
 
 .about-info .left{
-    width: 45%;
+    width: 5;
 }
 
 .about-info .right{
@@ -1145,10 +1145,6 @@ header .logo a {
     font-size: 25px;
     font-weight: 600;
     margin-bottom: 10px;
-}
-
-.intro-info .about-info .right p{
-    text-align: justify;
 }
 
 .about-content {
