@@ -1118,6 +1118,10 @@ header .logo a {
     width: 45%;
 }
 
+.about .about-info .right{
+    width: 55%;
+}
+
 .about .about-info .right p{
     text-align: justify;
 }
@@ -1244,6 +1248,14 @@ header .logo a {
 		padding-left: 0;
 		text-align: center;
 	}
+}
+
+/* responsive media query start */
+@media (max-width: 1104px) {
+    .about .about-info .left img{
+        height: 200px;
+        width: 200px;
+    }
 }
 
 /** 
