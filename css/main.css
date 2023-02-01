@@ -943,6 +943,14 @@ header .logo a {
 	letter-spacing: .3rem;
 	text-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
 }
+.intro-content .text-3{
+    font-size: 40px;
+}
+
+.intro-content .text-3 span{
+    color: rgb(238, 71, 196);
+    font-weight: 500;
+}
 .intro-content .intro-position {
 	font-family: "lora-regular", serif;
 	font-size: 1.7rem;
