@@ -372,7 +372,7 @@ dl,
 form,
 .fluid-video-wrapper,
 .ss-custom-select {
-	margin-bottom: 3rem;
+	margin-bottom: 9rem;
 }
 
 /**
@@ -1112,7 +1112,7 @@ header .logo a {
 /*.intro-info .about-info {
 	text-align: justify;
 	padding-left: 3rem;
-}*/
+}
 
 .intro-info .about-info .left{
     width: 45%;
@@ -1120,7 +1120,7 @@ header .logo a {
 
 .intro-info .about-info .right{
     width: 55%;
-}
+}*/
 
 .intro-info .about-info .right p{
     text-align: justify;
