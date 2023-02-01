@@ -1117,6 +1117,11 @@ header .logo a {
 .about .about-info .left{
     width: 45%;
 }
+
+.about .about-info .right p{
+    text-align: justify;
+}
+
 .about-info{
     display: flex;
     flex-wrap: wrap;
