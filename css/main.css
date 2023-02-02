@@ -2208,6 +2208,7 @@ header .logo a {
 .contact-content .info-list li {
 	padding: 0 0 1.5rem 0;
 	margin-bottom: .6rem;
+	list-style: none;
 }
 .contact-content .info-list li strong {
 	font-family: "poppins-bold", sans-serif;
