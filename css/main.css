@@ -2212,7 +2212,7 @@ header .logo a {
 }
 .contact-content .info-list li strong {
 	font-family: "poppins-bold", sans-serif;
-	color: #313131;
+	color: rgba(255, 255, 255, 0.7);
 	text-transform: uppercase;
 	letter-spacing: .2rem;
 	font-size: 1.5rem;
@@ -2221,7 +2221,7 @@ header .logo a {
 .contact-content .info-list li span {
 	display: block;
 	font-family: "poppins-regular", sans-serif;
-	color: #888888;
+	color: rgba(255, 255, 255, 0.7);
 	font-size: 1.5rem;
 	line-height: 1;
 }
