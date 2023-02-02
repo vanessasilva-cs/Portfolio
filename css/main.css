@@ -277,9 +277,9 @@ ol {
 ul {
 	list-style: none;
 }
-li {
+/*li {
 	display: list-item;
-}
+}*/
 ol, ul {
 	margin-left: 1.7rem;
 }
