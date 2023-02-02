@@ -275,7 +275,7 @@ ol {
 	list-style: decimal;
 }
 ul {
-	list-style: disc;
+	list-style: none;
 }
 li {
 	display: list-item;
