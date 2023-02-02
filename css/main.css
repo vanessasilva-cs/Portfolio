@@ -1238,6 +1238,13 @@ header .logo a {
 	.about-content h3 {
 		text-align: center;
 	}
+	.about-info .left{
+    width: 100%;
+ 
+	}
+	.about-info .right{
+    width: 100%;
+	}
 	.about-content .info-list, .about-content .skill-bars {
 		margin-bottom: 4.2rem;
 	}
@@ -1248,6 +1255,7 @@ header .logo a {
 	.button-section [class*="col-"] .button:first-child {
 		margin-right: 0;
 	}
+
 }
 @media only screen and (max-width:600px) {
 	.intro-info {
@@ -1273,6 +1281,7 @@ header .logo a {
         width: 200px;
     }
 }
+
 
 /** 
  * ===================================================================
