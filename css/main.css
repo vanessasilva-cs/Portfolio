@@ -1158,7 +1158,7 @@ header .logo a {
     height: 25rem;
 	width: 25rem;
 	border-radius: 50%;
-	float: right;
+	/*float: right;*/
 }
 
 .intro-info .about-info .right .text{
