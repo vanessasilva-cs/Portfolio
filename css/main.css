@@ -1275,7 +1275,7 @@ header .logo a {
 }
 
 /* responsive media query start */
-/*@media (max-width: 1104px) {
+@media (max-width: 1104px) {
     .about .about-info .left img{
         height: 200px;
         width: 200px;
