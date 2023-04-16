@@ -1165,7 +1165,7 @@ header .logo a {
     font-size: 30px;
     font-weight: 600;
     margin-bottom: 10px;
-    font-family: "poppins-bold", sans-serif;
+    font-weight: bold;
 }
 
 .about-content {
