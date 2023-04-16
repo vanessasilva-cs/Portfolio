@@ -1123,8 +1123,8 @@ header .logo a {
 	margin-left: -30px;
 }
 .intro-info img {
-	height: 25rem;
-	width: 25rem;
+	height: 832px;
+	width: 400px;
 	border-radius: 50%;
 	/*float: right;*/
 }
@@ -1275,7 +1275,7 @@ header .logo a {
 }
 
 /* responsive media query start */
-@media (max-width: 1104px) {
+/*@media (max-width: 1104px) {
     .about .about-info .left img{
         height: 200px;
         width: 200px;
