@@ -1290,8 +1290,8 @@ header .logo a {
 		margin-top: 3rem;
 	}
 	.intro-info img {
-		height: 200rem;
-		width: 162px;
+		height: 370px;
+		width: 200px;
 		float: none;
 		display: inline-block;
 	}
@@ -1304,8 +1304,8 @@ header .logo a {
 /* responsive media query start */
 @media (max-width: 1104px) {
     .about .about-info .left img{
-        height: 200px;
-        width: 162px;
+        height: 740px;
+        width: 400px;
     }
 }
 
