@@ -1227,8 +1227,8 @@ header .logo a {
 		margin-left: 0;
 	}
 	.intro-info img {
-		height: 5.4rem;
-		width: 10rem;
+		height: 740px;
+		width: 400px;
 	}
 	.intro-info .lead {
 		padding-left: 11rem;
@@ -1256,8 +1256,8 @@ header .logo a {
 }
 @media only screen and (max-width:768px) {
 	.intro-info img {
-		height: 162px;
-		width: 200px;
+		height: 740px;
+		width: 400px;
 	}
 	.intro-info .lead {
 		padding-left: 11rem;
